@@ -1,9 +1,10 @@
 streamlit
-matplotlib
-seaborn
-urlextract
-wordcloud
 pandas
-helper
+nltk
+wordcloud
 emoji
-stopwords
+urlextract
+vaderSentiment
+matplotlib
+
+
