@@ -1,10 +1,12 @@
 streamlit
 pandas
+seaborn
 nltk
 wordcloud
 emoji
 urlextract
 vaderSentiment
 matplotlib
+
 
 
